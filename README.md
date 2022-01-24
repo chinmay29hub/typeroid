@@ -4,10 +4,7 @@
 <h1 align="center">Welcome to typeroid <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px></h1>
 <br>
 <p>
-  <a href="https://www.npmjs.com/package/typer" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/typer.svg">
-  </a>
-  <a href="https://github.com/chinmay29hub/typer/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/chinmay29hub/typeroid/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/chinmay29hub" target="_blank">
@@ -20,7 +17,7 @@
 
 <br>
 
-### 🏠 [Homepage](https://github.com/chinmay29hub/typer)
+### 🏠 [Homepage](https://github.com/chinmay29hub/typeroid)
 
 <br>
 
@@ -38,7 +35,7 @@ pip3 install -r requirements.txt
 
 ## remove.bg(api)
 
-> add config.py file in the root directory of typer and add the following line [Replace 'YOUR_API' with you own api key]
+> add config.py file in the root directory of typeroid and add the following line [Replace 'YOUR_API' with you own api key]
 
 <br>
 
@@ -125,7 +122,7 @@ python3 app.py password //generate password
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/chinmay29hub/typer/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/chinmay29hub/typeroid/issues).
 
 <br>
 
@@ -138,7 +135,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Chinmay Sonawane](https://github.com/chinmay29hub).<br />
-This project is [MIT](https://github.com/chinmay29hub/typer/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/chinmay29hub/typeroid/blob/main/LICENSE) licensed.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
